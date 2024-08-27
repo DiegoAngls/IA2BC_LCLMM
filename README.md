@@ -42,7 +42,7 @@ lcmm: Extended Mixed Models Using Latent Classes and Latent Processes, [lcmm](ht
 ## Contact me
 
 
-**M. Sc. Diego Angeles-Valdez, **   
+**M. Sc. Diego Angeles-Valdez,**   
 **PhD Student,**   
 University Medical Center Groningen, Cognitive Neuroscience Center,   
 Biomedical Sciences of Cells and Systems (BCSS).   
