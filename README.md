@@ -1,8 +1,8 @@
 # IA2BC_LCLMM
 
-En nuestro manusrito tituluado "Improved classification of alcohol intake groups in the Intermittent-Access Two-Bottle choice rat model using a latent class linear mixed model" (Angeles-Valdez et al., in process)
-
-En el presente repositirio se eucentra una  A graphic user interface to run the Latent Class Linear Mixed model (LCLMM),  can be used by running the ShinyApp file. 
+In our manuscript titled *"Improved Classification of Alcohol Intake Groups in the Intermittent-Access Two-Bottle Choice Rat Model Using a Latent Class Linear Mixed Model"* [Angeles-Valdez et al., in process]().
+The repository provides a graphical user interface (GUI) for running the Linear Latent Class Mixed Model (LCLMM).
+Users can execute the analysis by running the ShinyApp file.
 
 
 ## Instalation 
@@ -18,6 +18,38 @@ Choose the appropriate installer for your operating system (Windows, macOS, or L
 - *Get the latest version from [RStudio Download](https://www.rstudio.com/products/rstudio/download/).
 -  The free version (RStudio Desktop) is sufficient to get started.
 
+
+## Downloand 
+
+Download the ShinyApp file, [here]().
+
+### R packages
+
+We mainly use the following R package:   
+lcmm: Extended Mixed Models Using Latent Classes and Latent Processes, [lcmm](https://cran.r-project.org/web/packages/lcmm/index.html)
+
+###
+
+
+
   
 ## How to use:
+
+
+
+--
+
+## Contact me
+
+
+**M. Sc. Diego Angeles-Valdez, **   
+**PhD Student,**   
+University Medical Center Groningen, Cognitive Neuroscience Center,   
+Biomedical Sciences of Cells and Systems (BCSS).   
+Twitter: [@diegoangls](https://twitter.com/diegoangls)  
+Bluesky:[@dangeles.bsky.social](https://bsky.app/profile/dangeles.bsky.social)   
+Email: d.angeles.valdez@rug.nl   
+Work address: Hanzeplein 1, 9713 GZ Groningen, The Netherlands  
+
+
 
