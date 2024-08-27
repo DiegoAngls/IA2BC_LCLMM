@@ -21,7 +21,7 @@ Choose the appropriate installer for your operating system (Windows, macOS, or L
 
 ## Downloand 
 
-Download the ShinyApp file, [here]().
+Download the ShinyApp file, [here](https://github.com/DiegoAngls/IA2BC_LCLMM/blob/main/App_LCLMM.R).
 
 ### R packages
 
