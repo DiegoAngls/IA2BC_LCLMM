@@ -7,15 +7,15 @@ Users can execute the analysis by running the ShinyApp file.
 
 ## Instalation 
   
- ## 1. R
+ ### 1. R
 
 Choose the appropriate installer for your operating system (Windows, macOS, or Linux) and follow the default installation instructions.
 
 - **Download R**: Visit the official [CRAN (Comprehensive R Archive Network)](https://cran.r-project.org/) page.
 
- ## 2. RStudio
+ ### 2. RStudio
 
-- *Get the latest version from [RStudio Download](https://www.rstudio.com/products/rstudio/download/).
+-  Get the latest version from [RStudio Download](https://www.rstudio.com/products/rstudio/download/).
 -  The free version (RStudio Desktop) is sufficient to get started.
 
 
