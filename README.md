@@ -1,6 +1,6 @@
 # IA2BC_LCLMM
 
-In our manuscript titled *"Improved Classification of Alcohol Intake Groups in the Intermittent-Access Two-Bottle Choice Rat Model Using a Latent Class Linear Mixed Model"* [Angeles-Valdez et al., in process]().
+In our manuscript titled *"Improved Classification of Alcohol Intake Groups in the Intermittent-Access Two-Bottle Choice Rat Model Using a Latent Class Linear Mixed Model"* [Angeles-Valdez et al., in review]().
 The repository provides a graphical user interface (GUI) for running the Linear Latent Class Mixed Model (LCLMM).
 Users can execute the analysis by running the ShinyApp file.
 
@@ -64,5 +64,17 @@ For additional support, please feel free to contact us or consult the documentat
 
 Proust-Lima C, Philipps V, Liquet B. Estimation of Extended Mixed Models Using Latent Classes and Latent Processes: The R Package lcmm. Journal of Statistical Software, Articles. 2017;78(2):1-56. https://doi.org/10.18637/jss.v078.i02
 
+--
 
+## Contact me
+
+
+M. Sc. Diego Angeles-Valdez,   
+PhD Student,   
+University Medical Center Groningen, Cognitive Neuroscience Center,   
+Biomedical Sciences of Cells and Systems (BCSS).   
+Twitter: [@diegoangls](https://twitter.com/diegoangls)  
+Bluesky:[@dangeles.bsky.social](https://bsky.app/profile/dangeles.bsky.social)   
+Email: d.angeles.valdez@rug.nl   
+Work address: Hanzeplein 1, 9713 GZ Groningen, The Netherlands
 
