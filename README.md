@@ -64,7 +64,7 @@ For additional support, please feel free to contact us or consult the documentat
 
 Proust-Lima C, Philipps V, Liquet B. Estimation of Extended Mixed Models Using Latent Classes and Latent Processes: The R Package lcmm. Journal of Statistical Software, Articles. 2017;78(2):1-56. https://doi.org/10.18637/jss.v078.i02
 
---
+
 
 ## Contact me
 
