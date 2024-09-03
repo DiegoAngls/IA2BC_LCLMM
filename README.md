@@ -38,7 +38,7 @@ lcmm: Extended Mixed Models Using Latent Classes and Latent Processes, [lcmm](ht
 
  1- Open the Shiny app file in RStudio and click "Run". Your Shiny app should now appear.
 
- ![Alt text](path/to/your/image.jpg)
+ ![Alt text](https://github.com/DiegoAngls/IA2BC_LCLMM/blob/main/images/1_Load_LCLMM_app.png)
 
  
  2- Load your data using the graphical interface.
