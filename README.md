@@ -45,23 +45,37 @@ lcmm: Extended Mixed Models Using Latent Classes and Latent Processes, [lcmm](ht
  
  ![Alt text](path/to/your/image.jpg)
  
- 3- Select the input variables necessary for estimating the LCLMM model.
-
- ![Alt text](path/to/your/image.jpg)
-
- 4- Specify the number of classes you wish to estimate.
+ 3- Select the input variables necessary for estimating the LCLMM model. You could use our trial dataset. 
  
  ![Alt text](path/to/your/image.jpg)
+
+ 4- Specify the number of classes you wish to estimate and press submit button. 
  
+![Alt text](path/to/your/image.jpg)
+
  5- Visualize the results.
+ 
+ **Classification trajectories (two groups)**
 
 ![Alt text](path/to/your/image.jpg)
+
+**Please check the dataset oput to see the classification in dataset**
+
+![Alt text](path/to/your/image.jpg)
+
+
+**Here you can change the number of classifications to be estimated**
+
+![Alt text](path/to/your/image.jpg)
+
+ 
 
 **Notes:**
 For additional support, please feel free to contact us or consult the documentation of the **lcmm** package in R.
 
 ## Remember to always say thank you
 
+More information in :
 Proust-Lima C, Philipps V, Liquet B. Estimation of Extended Mixed Models Using Latent Classes and Latent Processes: The R Package lcmm. Journal of Statistical Software, Articles. 2017;78(2):1-56. https://doi.org/10.18637/jss.v078.i02
 
 
