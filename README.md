@@ -43,30 +43,26 @@ lcmm: Extended Mixed Models Using Latent Classes and Latent Processes, [lcmm](ht
  
  2- Load your data using the graphical interface.
  
- ![Alt text](path/to/your/image.jpg)
+ ![Alt text](https://github.com/DiegoAngls/IA2BC_LCLMM/blob/main/images/2_Load_data.png)
  
- 3- Select the input variables necessary for estimating the LCLMM model. You could use our trial dataset. 
+ 3- Select the input variables necessary for estimating the LCLMM model. Specify the number of classes you wish to estimate and press submit button. 
  
- ![Alt text](path/to/your/image.jpg)
+ ![Alt text](https://github.com/DiegoAngls/IA2BC_LCLMM/blob/main/images/3_select_inputs.png)
 
- 4- Specify the number of classes you wish to estimate and press submit button. 
- 
-![Alt text](path/to/your/image.jpg)
-
- 5- Visualize the results.
+ 4-  Visualize the results.
  
  **Classification trajectories (two groups)**
 
-![Alt text](path/to/your/image.jpg)
+![Alt text](https://github.com/DiegoAngls/IA2BC_LCLMM/blob/main/images/4_two_clases.jpg)
 
 **Please check the dataset oput to see the classification in dataset**
 
-![Alt text](path/to/your/image.jpg)
+![Alt text](https://github.com/DiegoAngls/IA2BC_LCLMM/blob/main/images/5_classification.jpg)
 
 
 **Here you can change the number of classifications to be estimated**
 
-![Alt text](path/to/your/image.jpg)
+![Alt text](https://github.com/DiegoAngls/IA2BC_LCLMM/blob/main/images/6_more_classification.jpg)
 
  
 
